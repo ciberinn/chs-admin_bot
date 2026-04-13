@@ -1,0 +1,19 @@
+# Файл с приватными ключами Google
+credentials.json
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Виртуальное окружение
+venv/
+env/
+.venv/
+
+# Файлы IDE
+.vscode/
+.idea/
+
+# Логи
+*.log
